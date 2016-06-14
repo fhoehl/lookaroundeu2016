@@ -6,9 +6,8 @@ var path = require('path');
 module.exports = {
   entry: './src',
   output: {
-    path: path.join(__dirname, 'dist'),
     filename: '[hash].bundle.js',
-    publicPath: 'http://139.59.173.245/',
+    path: path.join(__dirname, 'dist'),
   },
   module: {
     loaders: [{
@@ -46,6 +45,10 @@ module.exports = {
     new ExtractTextPlugin('[hash].main.css', {
       allChunks: false
     }),
-  ]
+  ],
+  devServer: {
+    inline: true,
+    contentBase: './dist',
+  }
 };
 
