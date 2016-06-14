@@ -8,7 +8,7 @@ var init = function () {
     'chester': [53.1969395,-2.86239282],
   }
 
-  var element = document.getElementById('map')
+  var mapEl = document.getElementById('map')
 
   var myOptions = {
     center: { lat: 53.439405723336094, lng: -4.30446978750002 },
@@ -23,7 +23,7 @@ var init = function () {
     },
   }
 
-  var map = new google.maps.Map(element, myOptions)
+  var map = new google.maps.Map(mapEl, myOptions)
 
   var panTo = function (x, y) {
     return (e) => {
@@ -40,8 +40,11 @@ var init = function () {
     let contentString = `
     <h2>${marker.title}</h2>
     <p>${content.d}</p>
-    <img class="center" src="http://placekitten.com/g/300/200"/>
     <p><a href="${content.s}">source</a></p>`
+
+    //<blockquote class="twitter-tweet" data-link-color="#55acee" lang="es">
+    //  <a href="https://twitter.com/lookaroundeu/status/742355106599817216"></a>
+    //</blockquote>
 
     let infowindow = new google.maps.InfoWindow({
       content: contentString,
@@ -49,13 +52,26 @@ var init = function () {
     })
 
     infowindow.open(map, marker)
+
+    //infowindow.addListener('domready', function () {
+    //  twttr.widgets.load(mapEl)
+    //})
   }
+
+  var geocoder = new google.maps.Geocoder;
 
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(
       (position) => {
         let initialLocation = new google.maps.LatLng(position.coords.latitude, position.coords.longitude)
-        map.setCenter(initialLocation)
+
+        geocoder.geocode({'location': initialLocation, 'componentRestrictions': { 'country': 'UK' }}, function (results, status) {
+          if (status === google.maps.GeocoderStatus.OK) {
+            if (results.length > 1) { // Not in the UK. Is there a better way?
+              map.setCenter(initialLocation)
+            }
+          }
+        });
       },
       () => { map.setCenter(map.getCenter()) }
     )
