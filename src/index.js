@@ -99,14 +99,20 @@ var init = function () {
     marker.addListener('click', function (e) { makeInfoWindow(this) })
   }
 
-  for (let city in cities) {
-    let point = cities[city]
-    let btnEl = document.getElementById(`${city}Btn`)
+  var input = document.getElementById('pac-input');
+  var searchBox = new google.maps.places.SearchBox(input);
+  map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
 
-    if (btnEl)  {
-      btnEl.addEventListener('click', panTo(point[0], point[1]))
+  searchBox.addListener('places_changed', function() {
+    let places = searchBox.getPlaces()
+
+    if (places.length == 0) {
+      return
     }
-  }
+
+    map.setCenter(places[0].geometry.location)
+    map.fitBounds(places[0].geometry.viewport)
+  })
 }
 
 window.addEventListener('load', init)
