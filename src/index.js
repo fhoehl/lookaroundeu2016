@@ -25,6 +25,8 @@ var init = function () {
 
   var map = new google.maps.Map(mapEl, myOptions)
 
+  var infoWindow
+
   var panTo = function (x, y) {
     return (e) => {
       console.log(map.getCenter().lat(), map.getCenter().lng())
@@ -39,19 +41,24 @@ var init = function () {
 
     let contentString = `
     <h2>${marker.title}</h2>
+    <h3>${content.f}</h3>
     <p>${content.d}</p>
-    <p><a href="${content.s}">source</a></p>`
+    <p><a href="${content.s}" target="_blank">source</a></p>`
 
     //<blockquote class="twitter-tweet" data-link-color="#55acee" lang="es">
     //  <a href="https://twitter.com/lookaroundeu/status/742355106599817216"></a>
     //</blockquote>
 
-    let infowindow = new google.maps.InfoWindow({
+    if (infoWindow) {
+      infoWindow.close()
+    }
+
+    infoWindow = new google.maps.InfoWindow({
       content: contentString,
       maxWidth: 360,
     })
 
-    infowindow.open(map, marker)
+    infoWindow.open(map, marker)
 
     //infowindow.addListener('domready', function () {
     //  twttr.widgets.load(mapEl)
