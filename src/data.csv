@@ -1,18 +1,435 @@
-Location Name,Address,Coordinates,Amount of Funding,Source URL,Description
-Manchester Victoria Tram Stop,,"53.48733, -2.24205","£10,800,000",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,Rebuilding of the Manchester Victoria tram stop is part of work across the whole Metrolink system which received £10.8m from the European Regional Development Fund (ERDF) in 2014.
-Deansgate-Castlefield Tram Stop,,"53.47482, -2.24995","£10,800,000",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,"The European Regional Development Fund (ERDF) contributed £10.8m towards improvements across the whole Manchester Metrolink system, including rennovating Deansgate-Castlefield stop."
-The Sharp Project,"Thorp Road, Manchester, M40 5BJ, United Kingdom","53.501659,-2.1973727","£7,000,000",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,
-Museum Of Science And Industry,"Liverpool Road, Manchester, M3 4FP","53.4773135,-2.2571511","£2,000,000",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,The ERDF provided £2m for a revamp of the Museum of Science and Industry ’s main building
-People's History Museum,"Left Bank, Spinningfields, Manchester, Lancashire M3 3ER, United Kingdom","53.4814492,-2.2550338","£756,300",http://www.bbc.co.uk/news/uk-england-manchester-14039350,"The People's History Museum in Spinningfields, Manchester was financed with a £756,300 European Regional Development Fund (ERDF) grant."
-People's History Museum One Site Project ,"Left Bank, Spinningfields, Manchester, Lancashire M3 3ER, United Kingdom","53.4814492,-2.2550338","£378,150",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,
-N.O.M.A.,"1 Angel Square, Manchester M60 0AG, United Kingdom","53.4880435,-2.2371437","£6,900,000",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,This 20-acre mixed-use redevelopment scheme between Victoria Station and Angel Meadows has also been helped along the way by £6.9m of EU money.
-Jodrell Bank,"The University of Manchester, Macclesfield, Cheshire SK11 9DL, UK","53.236896,-2.3096899","£1,000,000",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,"In 2009 the Manchester University successfully netted a £1m ERDF grant to open its new discovery centre, covering around a third of the overall cost."
-Irwell Pedestrian Footbridge ,,,"£896,913",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,"Pedestrian link from Spinningfields to Salford benefited from around £1m in ERDF money, matching the cash put in by Salford council and developer Allied London "
-National Graphene Institute ,"The University of Manchester National Graphene Institute, Booth Street East, The University of Manchester, Manchester, M13 9PL, United Kingdom","53.468792,-2.233476","£23,002,348",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,£23m of its £61m cost was paid for by the ERDF.
-Homes of Football @ National Football Museum,"Urbis Building, Cathedral Gardens, Todd St, City Centre, Manchester, M4 3BG, UK","53.4858222,-2.2443062","£3,787,017",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,
-Imperial War Museum North,"Trafford Wharf Rd, Stretford, Manchester M17 1TZ, United Kingdom","53.4697358,-2.2987405","£8,900,000",http://www.museumsassociation.org/news/23022016-uk-museums-could-lose-if-uk-leaves-eu-says-ma,"The Imperial War Museum North in Salford Quays, Manchester, received an £8.9m European Regional Development Fund grant, and opened in 2002."
-Chester Innovation Economy Centre ,"Riverside Innovation Centre, Castle Drive, Chester, CH1 ISL","53.1860195,-2.8925262","£2,782,300",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,
-High Growth Centre,"Thornton Science Park, University of Chester, Pool Ln, Ince, Chester, Cheshire CH2 4NU, United Kingdom","53.274278,-2.8289837","£2,842,606",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,
-North West Food Research & Development Institute (NowFood) ,"Faculty of Life Sciences, University of Chester, Chester, CH14BJ","53.1989955,-2.9667875","£2,378,781",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,
-International Convention Centre,"Broad St, Birmingham, West Midlands B1 2EA, UK","52.4789,-1.9124797","£50,000,000",http://www.birminghammail.co.uk/news/midlands-news/what-eu-ever-done-birmingham-11028563,The EU chipped in £50 million towards the ICC and Symphony Hall which opened for business in 1991.
-National Exhibition Centre,"North Ave, Marston Green, Birmingham, West Midlands B40 1NT, UK","52.4511165,-1.7233308","£30,000,000",http://www.birminghammail.co.uk/news/midlands-news/what-eu-ever-done-birmingham-11028563,The ERDF gave £30 million towards the refurbishment of the NEC
+Beneficiary Name,Total Funding in £,Coordinates,Address,Source URL,Description,Image,Add to Map?,Wikipedia article,Wikidata QID
+10.) rtc north limited,500000,"17.4925396, 78.3355034",,eufunds.ftdata.co.uk,,,N,,
+North Tyneside Council,750000,"54.9768702,-1.6776343","Quadrant, The Silverlink N, Cobalt Business Park, Newcastle upon Tyne, Tyne and Wear NE27 0BY, UK",eufunds.ftdata.co.uk,"North Tyneside Council received £750,000 for a Raising Enterprise project.",,Y,en:North Tyneside Metropolitan Borough Council,Q17017005
+Newcastle City Council,1560000,"54.97683,-1.6776344","Civic Centre, Barras Bridge, Newcastle upon Tyne, Tyne and Wear NE1 8QH, UK",eufunds.ftdata.co.uk,Newcastle City Council received £1.56m for its Newcastle Enterprise project,,Y,en:Newcastle City Council,Q16998823
+Northumbria University,750000,"54.9768904,-1.6097837","Newcastle City Campus, 2 Ellison Pl, Newcastle upon Tyne NE1 8ST, United Kingdom",eufunds.ftdata.co.uk,"Northumbria University received £750,000 for a Healthcare Technology Development Programme",,Y,en:Northumbria University,Q2503794
+The University of Teesside,1170000,"54.5697713,-1.2378","Borough Rd, Tees Valley, Middlesbrough TS1 3BA, United Kingdom",eufunds.ftdata.co.uk,"The Univerity of Teesside received £1.17m for its Science 2 Business hub, helping over 100 small local businesses to gain a competitive edge in product development by opening up innovative relationships with academic institutions and research establishments.",,Y,en:Teesside University,Q3695910
+16.) the prince’s trust,380000,"18.9554552, 72.8295397",,eufunds.ftdata.co.uk,,,N,en:The Prince's Trust,Q7758242
+18.) one north east/rtc north ltd,860000,"17.4928615, 78.3386296",,eufunds.ftdata.co.uk,,,N,,
+2.) business & enterprise north east,9050000,"35.422266, -80.65849",,eufunds.ftdata.co.uk,,,N,,
+20.) ne business & innovation centre,850000,"54.9178898, -1.417028",,eufunds.ftdata.co.uk,,,N,,
+21.) one north east,1000000,"43.880451, 26.0230175",,eufunds.ftdata.co.uk,,,N,en:One NorthEast,Q7093088
+23.) one north east,600000,"2.336378, 102.6434973",,eufunds.ftdata.co.uk,,,N,en:One NorthEast,Q7093088
+24.) business & enterprise north east,1200000,"35.422266, -80.65849",,eufunds.ftdata.co.uk,,,N,,
+Gateshead Council,500000,"54.959419,-1.6057527","Civic Centre, Regent Terrace, Gateshead, Tyne And Wear NE8 1HH, UK",eufunds.ftdata.co.uk,"Gateshead Council received £500,000 from the EU for its Inspire Gateshead project.",,Y,en:Metropolitan Borough of Gateshead,Q929034
+Sunderland Software City,950000,"54.9040678,-1.3798612","Tavistock Pl, Sunderland SR1 1PB, United Kingdom",eufunds.ftdata.co.uk,"Sunderland Software City received £950,000 from the EU, providing business support for the region’s software industry .",,Y,,
+3.) one north east,500000,"38.1850432, -77.0630452",,eufunds.ftdata.co.uk,,,N,en:One NorthEast,Q7093088
+31.) durham university,490000,"35.9548264, -78.9659149",,eufunds.ftdata.co.uk,,,N,en:Durham University,Q458393
+32.) newcastle city council,880000,"52.43387, -3.1064958",,eufunds.ftdata.co.uk,,,N,en:Newcastle City Council,Q16998823
+33.) university of teesside,620000,"49.8293204, -97.2012473",,eufunds.ftdata.co.uk,,,N,en:Teesside University,Q3695910
+35.) durham county council,240000,"45.476369, -73.846743",,eufunds.ftdata.co.uk,,,N,en:Durham County Council,Q5316492
+University of Sunderland,500000,"54.9044899,-1.3941411","Edinburgh Building, Chester Rd, Sunderland, Tyne and Wear SR1 3SD, UK",eufunds.ftdata.co.uk,"The University of Sunderland received £500,000 for its Digital Factory project, helping regional manufacturing firms to improve competitiveness and productivity",,Y,en:University of Sunderland,Q1094742
+NETPark,5000000,"54.6703113,-1.4513517","Thomas Wright Way, Stockton-on-Tees, Cleveland TS21 3FD, United Kingdom",eufunds.ftdata.co.uk,North East Technology Park in County Durham received £5m in EU funding,,Y,en:Netpark,Q6999841
+38.) mas north east,640000,"44.913686, 1.952155",,eufunds.ftdata.co.uk,,,N,,
+Berwick WorkSpace,130000,"55.7708618,-2.0047626","Boarding School Yard, 90 Marygate, Berwick-upon-Tweed TD15 1BN, United Kingdom",eufunds.ftdata.co.uk,"Northumberland County Council received £130,000 from the EU for the Berwick WorkSpace business incubation centre",,Y,,
+3m united kingdom...,241107,"51.4919877, -0.171196",,eufunds.ftdata.co.uk,,,N,,
+4.) business & enterprise north east,1100000,"35.422266, -80.65849",,eufunds.ftdata.co.uk,,,N,,
+42.) newcastle university,800000,"43.1501158, -77.5440926",,eufunds.ftdata.co.uk,,,N,en:Newcastle University,Q837164
+44.) university of teesside,500000,"36.0114298, -78.9819549",,eufunds.ftdata.co.uk,,,N,en:Teesside University,Q3695910
+45.) one north east,550000,"39.7774918, -104.7591255",,eufunds.ftdata.co.uk,,,N,en:One NorthEast,Q7093088
+46.) business & enterprise north east,1480000,"35.422266, -80.65849",,eufunds.ftdata.co.uk,,,N,,
+493k ltd,34147,"33.4397442, -80.4674221",,eufunds.ftdata.co.uk,,,N,,
+"Translational Research Building, Newcastle University",2550000,"54.9791871,-1.6168495","Newcastle upon Tyne, Tyne and Wear NE1 7RU, UK",eufunds.ftdata.co.uk,,Newcastle University received £2.55m from the EU for its Translational Research Building.,Y,en:Newcastle University,Q837164
+51.) business & enterprise north east,2000000,"32.8266913, -115.5755268",,eufunds.ftdata.co.uk,,,N,,
+South Tyneside Council,810000,"54.9949495,-1.4313608","Town Hall & Civic Offices, Westoe Rd, South Shields, Tyne and Wear NE33 2RL, UK",eufunds.ftdata.co.uk,"South Tyneside Council received £810,000 for enterprise coaching",,Y,en:South Tyneside,Q1541228
+56.) one north east,1100000,"39.7985295, -104.9833976",,eufunds.ftdata.co.uk,,,N,en:One NorthEast,Q7093088
+59.) generator,820000,"52.6700719, 6.7364127",,eufunds.ftdata.co.uk,,,N,,
+6.) university of teesside,1900000,"54.571713,-1.2354897","The Institute of Digital Innovation, University of Teesside TS1 3BA, United Kingdom",eufunds.ftdata.co.uk,University of Teeside received £1.9m from the EU to build the Institute of Digital Innovation,,Y,en:Teesside University,Q3695910
+Sunderland City Council,890000,"54.8977435,-1.3782335","Civic Centre, Burdon Rd, Sunderland, Tyne and Wear SR2 7DN, UK",eufunds.ftdata.co.uk,"Sunderland City Council received £890,000 for enterprise coaching",,Y,en:Sunderland City Council,Q17022675
+a diamond & son (...,14062,"54.6532182, -6.274233",,eufunds.ftdata.co.uk,,,N,,
+a diamond & son l...,50000,"54.6532182, -6.274233",,eufunds.ftdata.co.uk,,,N,,
+a j power ltd,34728,"53.7253412, -2.2863838",,eufunds.ftdata.co.uk,,,N,,
+a. diamond & son ...,82326,"54.6532182, -6.274233",,eufunds.ftdata.co.uk,,,N,,
+a1 power systems ...,25650,"-1.3071792, 36.8314666",,eufunds.ftdata.co.uk,,,N,,
+abbey national pl...,41558,"2.386943, 102.465851",,eufunds.ftdata.co.uk,,,N,,
+advanced industri...,39758,"40.5256292, -105.0445238",,eufunds.ftdata.co.uk,,,N,,
+alpha environment...,79338,"52.2628787, 0.3935364",,eufunds.ftdata.co.uk,,,N,,
+Anglesey County Council,6500000,"53.3756203, -4.3828831","Council Offices, Llangefni, Isle of Anglesey LL77 7TW, UK",eufunds.ftdata.co.uk,Anglesey County Council received £6.5m from the EU to develop on-shore and off-shore facilities for the coastline of Anglesey.,,Y,en:Isle of Anglesey County Council,Q6083890
+Ards Borough Council,105000,"54.5944855,-5.7053328","2 Church St, Newtownards, County Down BT23 4AP, UK",eufunds.ftdata.co.uk,"Ards Borough Council received £105,000 from the EU for the Castle Espie nature reserve.",,Y,en:Ards Borough Council,Q16970935
+armstrong medical...,38210,"39.2976776, -76.59568",,eufunds.ftdata.co.uk,,,N,,
+arts council england,390000,"51.5182314,-0.1306445","Bloomsbury St, London WC1B 3HF, UK",eufunds.ftdata.co.uk,"Arts Council England received £390,000 for a Creative Innovation Initiative.",,Y,en:Arts Council England,Q3400795
+ashfield district council,194709,"-26.366667, 23.25",,eufunds.ftdata.co.uk,,,N,en:Ashfield ,Q600996
+asset management ...,34066,"52.4031562, -0.7335813",,eufunds.ftdata.co.uk,,,N,,
+axa insurance,200000,"52.4802096, -1.8993042",,eufunds.ftdata.co.uk,,,N,en:AXA,Q160054
+b/e aerospace ltd...,1202670,"16.1197253, 74.5159332",,eufunds.ftdata.co.uk,,,N,,
+b9 energy,279400,"46.9331738, -67.8906299",,eufunds.ftdata.co.uk,,,N,,
+ballymena borough...,101250,"54.9339828, -6.2307747",,eufunds.ftdata.co.uk,,,N,en:Ballymena Borough Council,Q10425534
+ballyrashane co-o...,28215,"55.13945, -6.60207",,eufunds.ftdata.co.uk,,,N,,
+Bangor University,21400000,"53.2295205,-4.1321761","Bangor, Gwynedd LL57 2DG, UK",eufunds.ftdata.co.uk,Bangor University received £21.4m from the EU for scholarships and collaborative research projects across Wales.,,Y,en:Bangor University,Q790029
+Barnfield College,210000,"51.9059145,-0.4241257","New Bedford Rd, Luton LU2 7BF, United Kingdom",eufunds.ftdata.co.uk,"Barnfield College received £210,000 for skills development.",,Y,en:Barnfield College,Q4861814
+barronscourt tech...,34267,"51.505383, -0.255825",,eufunds.ftdata.co.uk,,,N,,
+Bassetlaw District Council,483333,"53.3018259,-1.1253737","Queens Buildings, Potter St, Worksop, Nottinghamshire S80 2AH, UK",eufunds.ftdata.co.uk,,,Y,en:Bassetlaw,Q810508
+bbcb ltd,89036,"35.6058136, 139.431053",,eufunds.ftdata.co.uk,,,N,,Loading...
+bedford college,3989909,"52.1332928,-0.4700403","Cauldwell St, Bedford MK42 9AH, United Kingdom",eufunds.ftdata.co.uk,Bedford College received £3.9m for its Pathfinder Innovation Centre for Sustainability,,Y,en:Bedford College,Q2189214
+belfast aircraft ...,84863,"54.597285, -5.93012",,eufunds.ftdata.co.uk,,,N,,
+belfast city council,654815,"54.5971287,-5.9321207","Belfast BT1 5GS, UK",eufunds.ftdata.co.uk,"Belfast City Council received £654,815 in EU funding.",,Y,,
+belfast internati...,82848,"54.6623885, -6.2177275",,eufunds.ftdata.co.uk,,,N,,
+blue quadrant ltd...,7615,"54.3596615, -6.3165117",,eufunds.ftdata.co.uk,,,N,,
+Bolsover District Council,142947,"53.2727901,-1.2692218","The Arc, High Street, Clowne, Chesterfield, Derbyshire S43 4JY, UK",eufunds.ftdata.co.uk,"Bolsover District Council received £142,947 in EU funding.",,Y,en:Bolsover District,Q891608
+bolton business ventures limited,900000,"53.5768647, -2.4282192",,eufunds.ftdata.co.uk,,,N,,
+bombardier aerosp...,3189974,"1.4055746, 103.8656034",,eufunds.ftdata.co.uk,,,N,,
+brian and mary ma...,36017,"42.4072107, -71.3824374",,eufunds.ftdata.co.uk,,,N,,
+british telecommu...,74992,"52.9299097, 1.3000296",,eufunds.ftdata.co.uk,,,N,,
+british waterways,134000,"51.8636855, -2.2515091",,eufunds.ftdata.co.uk,,,N,en:British Waterways,Q920339
+Bromley College of Further and Higher Education,1050000,"51.387138,0.0336113","Rookery Ln, Bromley BR2 8HE, United Kingdom",eufunds.ftdata.co.uk,Bromley College received £1.05m from the EU for the South London SME Finance Brokerage project .,,Y,en:Bromley College of Further & Higher Education,Q4973675
+bushmills hotel l...,8283,"51.6423122, -0.0678269",,eufunds.ftdata.co.uk,,,N,,
+business in the community,144837,"39.8724952, -89.9206725",,eufunds.ftdata.co.uk,,,N,,
+business informat...,2176503,"41.2640997, -111.9657929",,eufunds.ftdata.co.uk,,,N,,
+business link northwest,3410095,"39.9956266, -83.0464179",,eufunds.ftdata.co.uk,,,N,,
+business support kent,515004,"51.4329612, 0.117383",,eufunds.ftdata.co.uk,,,N,,
+Caerphilly County Borough Council,6600000,"51.6572432,-3.1914085","Pontllanfraith House, Blackwood Rd, Pontllanfraith, Blackwood, Gwent NP12 2YW, UK",eufunds.ftdata.co.uk,Caerphilly County Bourough Council received £6.6m to redevelop Newbridge and Bargoed.,,Y,en:Caerphilly County Borough Council,Q5016926
+campsie cleaning ...,13200,"55.9601729, -4.1262015",,eufunds.ftdata.co.uk,,,N,,
+carbon trust,18600000,"39.5932659, -111.0889601",,eufunds.ftdata.co.uk,,,N,en:Carbon Trust,Q3658279
+Cardiff University,19900000,"51.4866271,-3.1876188","Cardiff CF10 3XQ, UK",eufunds.ftdata.co.uk,Cardiff University received £19.9m for energy research projects conducted through the Low Carbon Research Institute (LCRI),,Y,en:Cardiff University,Q1035745
+Carmarthenshire County Council,8900000,"51.8511708,-4.325625","County Hall, Carmarthen, SA31 1JP, UK",eufunds.ftdata.co.uk,Carmarthenshire County Council received £8.9m from the EU for pilot projects aimed at providing transport for people who live in rural communities,,Y,en:Carmarthenshire County Council,Q5043224
+Y Ffwrnes,14100000,"51.6833264,-4.1583962","Park St, Llanelli SA15 3YE, United Kingdom",eufunds.ftdata.co.uk,Carmarthenshire County Council received £14.1m from the EU to fund the Ffwrnes theatre and arts complex in Llanelli. ,,Y,en:Carmarthenshire County Council,Q5043224
+"carmarthenshire \
+county council",5500000,"51.80395, -4.09486",,eufunds.ftdata.co.uk,,,N,,
+Llanelly House,1900000,"51.6833263,-4.16358","18 Vaughan St, Llanelli SA15 3TY, United Kingdom",eufunds.ftdata.co.uk,Carmarthenshire County Council received £1.9m to restore Llanelly House and turn it into a community heritage centre,,Y,,
+catering equipmen...,8990,"51.1548294, 0.2747158",,eufunds.ftdata.co.uk,,,N,,
+ccs,31805,"10.4805937, -66.9036063",,eufunds.ftdata.co.uk,,,N,,
+cde ireland ltd,35000,"-34.063173, 18.441356",,eufunds.ftdata.co.uk,,,N,,
+central welding l...,9326,"40.3763652, -104.6916817",,eufunds.ftdata.co.uk,,,N,,
+centre for compet...,28750,"33.9179995, -117.5707117",,eufunds.ftdata.co.uk,,,N,,
+Ceredigion County Council,1500000,"52.2605,-4.3081498","Canolfan Rheidol, Rhodfa Padarn, Llanbadarn Fawr, Aberystwyth, Ceredigion SY23 3UE, UK",eufunds.ftdata.co.uk,Ceredigion County Council received £1.5m from the EU for a Social Enterprise Growth Fund,,Y,en:Ceredigion County Council,Q5064127
+charles & irene s...,38086,"41.703892, -70.945755",,eufunds.ftdata.co.uk,,,N,,
+chesapeake belfas...,117474,"36.7682088, -76.2874927",,eufunds.ftdata.co.uk,,,N,,
+cheshire & warrington economic alliance,159250,"41.5083668, -72.9106202",,eufunds.ftdata.co.uk,,,N,,
+City & County of Swansea,19700000,"51.613697,-3.9505645","Civic Centre, Oystermouth Rd, Swansea, W Glam SA1 3SN, UK",eufunds.ftdata.co.uk,Swansea City and County Council received £19.7m for the continued regeneration of Swansea's waterfront.,,Y,en:City and County of Swansea Council,Q5123523
+city college norwich,332511,"52.6180638, 1.2850204",,eufunds.ftdata.co.uk,,,N,en:City College Norwich,Q5123119
+city industrial w...,30586,"37.6175773, -122.0692282",,eufunds.ftdata.co.uk,,,N,,
+ck international ...,46990,"-18.8295303, -159.7667148",,eufunds.ftdata.co.uk,,,N,,
+clarity business ...,9400,"53.2893231, -6.3688089",,eufunds.ftdata.co.uk,,,N,,
+clas technology l...,19920,"17.4105451, 78.5284666",,eufunds.ftdata.co.uk,,,N,,
+cms global,5000,"11.0738902, 76.9814077",,eufunds.ftdata.co.uk,,,N,,
+cocoon (europe) l...,45000,"54.0947207, -6.7300398",,eufunds.ftdata.co.uk,,,N,,
+coleraine borough...,49687,"51.5186832, -0.1389862",,eufunds.ftdata.co.uk,,,N,en:Coleraine Borough Council,Q991411
+commercial graphi...,23803,"28.3040963, -82.7027419",,eufunds.ftdata.co.uk,,,N,,
+connect midlands - university of warwick,956081,"52.379411, -1.563191",,eufunds.ftdata.co.uk,,,N,en:University of Warwick Science Park,Q7896561
+controlled electr...,399730,"23.0453761, 113.7213989",,eufunds.ftdata.co.uk,,,N,,
+conwell contracts...,34640,"54.7859636, -7.4882109",,eufunds.ftdata.co.uk,,,N,,
+cookstown distric...,104596,"54.6414886, -6.7437959",,eufunds.ftdata.co.uk,,,N,en:Cookstown District Council,Q1129644
+Corby Enterprise Centre,1160116,"52.506237,-0.6444167","Corby, Northamptonshire NN17 5EU, UK",eufunds.ftdata.co.uk,Corby Borough Council received £1.16m from the EU to build Corby Enterprise Centre,,Y,en:Corby,Q994925
+Cornwall College,16905791,"50.3466794,-4.7853703","Tregonissey Rd, Saint Austell PL25 4DJ, United Kingdom",eufunds.ftdata.co.uk,Cornwall College received £16.9m in EU funding.,,Y,en:Cornwall College,Q5171960
+Cornwall Council,43370088,"50.3465949,-4.9166976","Carrick House, Pydar St, Truro, Cornwall TR1 1EB, UK",eufunds.ftdata.co.uk,"Cornwall Council received £43.3m from the EU, including £11m towards the development of Newquay Airport",,Y,en:Cornwall Council,Q3774189
+cornwall enterprise,300000,"40.3038772, -76.3808266",,eufunds.ftdata.co.uk,,,N,,
+Council of the Isles of Scilly,1383893,"49.9144594,-6.3174275","Town Hall, St Mary's, Isles of Scilly TR21 0LW, UK",eufunds.ftdata.co.uk,The Council of the Isles of Scilly received £1.3m in EU funding.,,Y,en:Isles of Scilly,Q180209
+Countryside Council for Wales,11300000,"51.7328105, -5.2245194",,eufunds.ftdata.co.uk,,,N,en:Countryside Council for Wales,Q3400617
+cr coffee houses ...,7010,"35.7738016, -89.5072621",,eufunds.ftdata.co.uk,,,N,,
+craftstone 2000 l...,10431,"31.1536003, 121.3538951",,eufunds.ftdata.co.uk,,,N,,
+craigavon borough...,65500,"54.4223569, -6.445676",,eufunds.ftdata.co.uk,,,N,en:Craigavon Borough Council,Q427201
+crane stockham va...,176956,"37.4315734, -78.6568942",,eufunds.ftdata.co.uk,,,N,,
+cranfield university,815510,"52.0742111, -0.6300115",,eufunds.ftdata.co.uk,,,N,en:Cranfield University,Q181177
+crawford contrac...,8450,"54.873732, -6.2298846",,eufunds.ftdata.co.uk,,,N,,
+cross concrete fl...,15900,"27.6648274, -81.5157535",,eufunds.ftdata.co.uk,,,N,,
+croydon business,1635000,"51.9064718, -8.4611569",,eufunds.ftdata.co.uk,,,N,,
+Croydon Council,1500000,"51.3725144,-0.1001423","Bernard Weatherill House, 8 Mint Walk, Croydon, Greater London CR0 1EA, UK",eufunds.ftdata.co.uk,"Croydon Council received £1.5m from the EU for the Access to Finance programme, supporing local SMEs.",,Y,en:Croydon London Borough Council,Q5189676
+cumbria county council,1116458,"54.521238, -3.5163261",,eufunds.ftdata.co.uk,,,N,en:Cumbria County Council,Q5194027
+cumbria tourism,2400000,"54.373852, -2.997849",,eufunds.ftdata.co.uk,,,N,,
+de montford university,350000,"52.6205301, -1.1102922",,eufunds.ftdata.co.uk,,,N,en:De Montfort University,Q3551402
+de montfort university,389355,"52.6205301, -1.1102922",,eufunds.ftdata.co.uk,,,N,en:De Montfort University,Q3551402
+Deeside College,1400000,"53.2258745,-3.0811822","Kelsterton Rd, Connah's Quay, Deeside CH5 4BR, United Kingdom",eufunds.ftdata.co.uk,,Deeside College received £1.4m in EU funding.,Y,en:Deeside College,Q5251005
+Denbighshire County Council,13800000,"53.2170959,-3.5473572","Wynnstay Rd, Ruthin, Denbighshire LL15, UK",eufunds.ftdata.co.uk,Denbighshire County Council received £13.8m in EU funding for The New Work Connections Project.,,Y,en:Denbighshire County Council,Q5256629
+dental care centre,16568,"51.9107293, -8.473799",,eufunds.ftdata.co.uk,,,N,,
+department of education and training,1302295,"19.7043554, -155.0698508",,eufunds.ftdata.co.uk,,,N,,
+department of employment,57885,"29.3103866, 76.3366425",,eufunds.ftdata.co.uk,,,N,,
+Derby City Council,59999,"52.9421037,-1.5160432","Council House, Corporation St, Derby DE1 2FS, UK",eufunds.ftdata.co.uk,"Derby City Council received £59,999 from the EU for regeneration of Darley Abbey.",,Y,en:Derby City Council,Q5261430
+derry city counci...,15390,"-41.202617, 174.8036278",,eufunds.ftdata.co.uk,,,N,en:Derry City Council,Q1200370
+derry precision t...,31200,"54.9966124, -7.3085748",,eufunds.ftdata.co.uk,,,N,,
+design by front l...,52795,"37.7944101, -122.3990072",,eufunds.ftdata.co.uk,,,N,,
+design developmen...,4300000,"31.169474, 121.4100359",,eufunds.ftdata.co.uk,,,N,,
+disability essex,815918,"51.582802, 0.7125124",,eufunds.ftdata.co.uk,,,N,,
+discovery 80 ltd,16900,"40.0562943, -82.892369",,eufunds.ftdata.co.uk,,,N,,
+douglas architect...,11117,"41.873592, -87.6486965",,eufunds.ftdata.co.uk,,,N,,
+down district cou...,146731,"28.9624072, 118.8719698",,eufunds.ftdata.co.uk,,,N,en:Down District Council,Q1198492
+Drenagh Sawmills,58039,"55.0693943,-6.9410117","89 Dowland Rd, Limavady BT49 0HR, United Kingdom",eufunds.ftdata.co.uk,"Drenagh Sawmills received £58,039 from the EU.",,Y,,
+dunadry developme...,21318,"54.69884, -6.1395",,eufunds.ftdata.co.uk,,,N,,
+dungannon and sou...,136000,"54.5082725, -6.7669352",,eufunds.ftdata.co.uk,,,N,en:Dungannon and South Tyrone Borough Council ,Q1198466
+east midlands business,8720263,"5.4359128, 100.3058602",,eufunds.ftdata.co.uk,,,N,,
+east of england development agency,11024050,"50.4155413, -4.1218612",,eufunds.ftdata.co.uk,,,N,en:East of England Development Agency,Q5329760
+east of england international ltd,300000,"51.4999792, -0.2601444",,eufunds.ftdata.co.uk,,,N,,
+edina manufacturi...,20423,"44.8896866, -93.3499489",,eufunds.ftdata.co.uk,,,N,,
+eglinton (timber ...,28600,"35.58576, -92.2852634",,eufunds.ftdata.co.uk,,,N,,
+electronic & secu...,13092,"52.7319533, -1.7424062",,eufunds.ftdata.co.uk,,,N,,
+elite electronic ...,50000,"12.8317773, 77.6919952",,eufunds.ftdata.co.uk,,,N,,
+Liverpool Lime Street,3055000,"53.4076217,-2.9795018","Lime St, Liverpool, Merseyside L1 1JD, UK",eufunds.ftdata.co.uk,"Liverpool Lime Street Gateway project received £3.05m from the EU, improving the frontage and building a public plaza.",,Y,en:English Partnerships,Q5378344
+enterprise enfield,1350000,"51.6328193, -0.0076759",,eufunds.ftdata.co.uk,,,N,,
+enterprising communities (1),105790,"52.512281, -1.9786915",,eufunds.ftdata.co.uk,,,N,,
+enterprising communities (2),110000,"51.5789478, -2.986789",,eufunds.ftdata.co.uk,,,N,,
+environment agency,1248066,"53.8286936, -1.0774396",,eufunds.ftdata.co.uk,,,N,en:Environment Agency,Q5381011
+environmental tre...,8556,"30.5271258, -87.2028788",,eufunds.ftdata.co.uk,,,N,,
+essential designs...,56966,"43.8815163, 125.3136518",,eufunds.ftdata.co.uk,,,N,,
+european connecte...,232400,"52.3177727, 4.8733935",,eufunds.ftdata.co.uk,,,N,,
+european magazine...,9628,"5.4123221, 100.3322775",,eufunds.ftdata.co.uk,,,N,,
+exact engineering...,9927,"32.1109709, 34.8064886",,eufunds.ftdata.co.uk,,,N,,
+fin engineering g...,29242,"42.355601, -83.0710255",,eufunds.ftdata.co.uk,,,N,,
+fin engineering l...,86073,"42.355601, -83.0710255",,eufunds.ftdata.co.uk,,,N,,
+Finance Wales,10900000,"51.477155,-3.1718355","1 Capital Quarter, Tyndall St, Cardiff CF10 4BZ, UK",eufunds.ftdata.co.uk,Finance Wales received £10.9m in EU funding.,,Y,en:Finance Wales,Q5449551
+finance south east,2000000,"42.3194462, -71.0524902",,eufunds.ftdata.co.uk,,,N,,
+finance wales,48600000,"43.6530021, -79.4033191",,eufunds.ftdata.co.uk,,,N,en:Finance Wales,Q5449551
+fir trees hotel s...,59847,"53.446063, -2.1575628",,eufunds.ftdata.co.uk,,,N,,
+fivemiletown & br...,22540,"54.3775293, -7.3175951",,eufunds.ftdata.co.uk,,,N,,
+fm environmental ...,14066,"6.843496, 158.3086817",,eufunds.ftdata.co.uk,,,N,,
+"forestry  \
+commission",900000,"31.4983267, -87.3357985",,eufunds.ftdata.co.uk,,,N,en:Forestry Commission,Q1437242
+"forestry \
+commission",6800000,"31.4983267, -87.3357985",,eufunds.ftdata.co.uk,,,N,en:Forestry Commission,Q1437242
+four corners,150000,"44.0808006, -104.1360836",,eufunds.ftdata.co.uk,,,N,,
+francis dinsmore ...,23282,"54.808366, -6.2259812",,eufunds.ftdata.co.uk,,,N,,
+frederick jones (...,20942,"39.6598201, -77.3533195",,eufunds.ftdata.co.uk,,,N,,
+frontier energy l...,8809,"13.0640702, 80.2340047",,eufunds.ftdata.co.uk,,,N,,
+fujitsu services ...,949500,"23.0550164, 113.1420154",,eufunds.ftdata.co.uk,,,N,en:Fujitsu,Q186394
+game the world lt...,35000,"39.9368925, 116.4509699",,eufunds.ftdata.co.uk,,,N,,
+glens of antrim p...,131210,"-26.2605559, 28.005264",,eufunds.ftdata.co.uk,,,N,,
+greater london enterprise ltd,8021661,"51.5491374, -0.038987",,eufunds.ftdata.co.uk,,,N,,
+greenhill kitchen...,12398,"53.297193, -1.5028227",,eufunds.ftdata.co.uk,,,N,,
+grosvenor shirts ...,27800,"54.5588393, -1.305959",,eufunds.ftdata.co.uk,,,N,,
+hammer & tongs (s...,28358,"22.3277785, 114.1760045",,eufunds.ftdata.co.uk,,,N,,
+hampton conservat...,26178,"29.9105933, -82.1468847",,eufunds.ftdata.co.uk,,,N,,
+hertford regional college,5834633,"51.72784, -0.026002",,eufunds.ftdata.co.uk,,,N,en:Hertford Regional College,Q5744708
+hill engineering ...,13758,"59.9373978, 30.3356195",,eufunds.ftdata.co.uk,,,N,,
+home design centr...,36606,"53.7152681, -1.3499487",,eufunds.ftdata.co.uk,,,N,,
+homecare (norther...,44660,"40.4023479, -74.6488721",,eufunds.ftdata.co.uk,,,N,,
+hse consulting limited,53544,"54.6638119, -1.673354",,eufunds.ftdata.co.uk,,,N,,
+huhtamaki (lurgan...,249985,"54.4635261, -6.3345506",,eufunds.ftdata.co.uk,,,N,,
+hunter apparel so...,90040,"37.7404136, -122.4027741",,eufunds.ftdata.co.uk,,,N,,
+i-path diagnostic...,78875,"38.1603663, -84.9113152",,eufunds.ftdata.co.uk,,,N,,
+industrial resear...,14985,"51.3994113, -0.2318499",,eufunds.ftdata.co.uk,,,N,,
+integrated servic...,73895,"37.1970138, 113.7338843",,eufunds.ftdata.co.uk,,,N,,
+interface europe ...,25172,"51.2856105, -0.0788219",,eufunds.ftdata.co.uk,,,N,,
+islington training network,650000,"51.5465063, -0.1058058",,eufunds.ftdata.co.uk,,,N,,
+j a graham t/a re...,34304,"40.3401333, -104.9533862",,eufunds.ftdata.co.uk,,,N,,
+j m f ltd,45378,"55.8674557, -4.1929745",,eufunds.ftdata.co.uk,,,N,,
+james a s finlay ...,43391,"37.0376478, -93.304708",,eufunds.ftdata.co.uk,,,N,,
+james leckey desi...,273476,"54.5530713, -6.0066979",,eufunds.ftdata.co.uk,,,N,,
+"jim, monica and r...",28293,"51.4312814, 0.1038589",,eufunds.ftdata.co.uk,,,N,,
+job centre plus,18000000,"53.4063413, -2.9831381",,eufunds.ftdata.co.uk,,,N,en:Jobcentre Plus,Q6206793
+jobcentre plus,16000000,"53.4063413, -2.9831381",,eufunds.ftdata.co.uk,,,N,en:Jobcentre Plus,Q6206793
+jobcentreplus,5700000,"53.4063413, -2.9831381",,eufunds.ftdata.co.uk,,,N,en:Jobcentre Plus,Q6206793
+john c brow ltd,12500,"51.5114286, -0.1443951",,eufunds.ftdata.co.uk,,,N,,
+john thompson & s...,317236,"37.7645209, -77.4945841",,eufunds.ftdata.co.uk,,,N,,
+k & t designs ltd...,25822,"51.3968801, -0.3750071",,eufunds.ftdata.co.uk,,,N,,
+Kent County Council,373401,"51.2783,0.5198223","County Hall, Maidstone, Kent ME14 1XQ, UK",eufunds.ftdata.co.uk,"Kent County Council received £373,401 from the EU for Low Carbon Futures",,Y,en:Kent County Council,Q6386127
+kittle of toye li...,6371,"34.0557963, -118.27214",,eufunds.ftdata.co.uk,,,N,,
+Knowsley Metropolitan Borough Council,2522731,"53.4468916,-2.9207199","Municipal Buildings, Cherryfield Dr, Liverpool, Merseyside L32 1TX, UK",eufunds.ftdata.co.uk,Knowsley Metropolitan Borough Council received £2.5m from the EU for Supporting Links to Employment in Merseyside.,,Y,en:Knowsley Metropolitan Borough Council,Q16995750
+kop limited,80298,"51.6800993, 0.5600761",,eufunds.ftdata.co.uk,,,N,,
+l e pritchitt & c...,91051,"54.5506487, -1.1848751",,eufunds.ftdata.co.uk,,,N,,
+lagan constructio...,133203,"45.394801, 47.3628351",,eufunds.ftdata.co.uk,,,N,,
+lagan technologie...,51602,"51.8823531, -8.5199581",,eufunds.ftdata.co.uk,,,N,,
+lambour precision...,9108,"13.0116818, 80.2076894",,eufunds.ftdata.co.uk,,,N,,
+Lancaster University,5094414,"54.0103942,-2.7899181","Bailrigg, Lancaster LA1 4YW, United Kingdom",eufunds.ftdata.co.uk,Lancaster University received £5.09m in EU funding.,,Y,,
+langford lodge en...,54690,"50.845687, 0.4869709",,eufunds.ftdata.co.uk,,,N,,
+larne borough cou...,125000,"54.8407868, -5.8853195",,eufunds.ftdata.co.uk,,,N,en:Larne Borough Council,Q1198470
+learning partnership,62500,"53.7697751, -0.3668747",,eufunds.ftdata.co.uk,,,N,,
+Leicester City Council,1021245,"52.6327459,-1.1315674","91 Granby St, Leicester, LE1 6FB, UK",eufunds.ftdata.co.uk,Leicester City Council received £1.02m in EU funding.,,Y,en:Leicester City Council,Q6519163
+leicester engery agency - leicester city,72476,"52.6368778, -1.1397592",,eufunds.ftdata.co.uk,,,N,,
+leicester social economy consortium,377651,"52.6368778, -1.1397592",,eufunds.ftdata.co.uk,,,N,,
+leonard cheshire disability,663860,"51.2864426, 0.154543",,eufunds.ftdata.co.uk,,,N,,
+lincolnshire business improvement group,402500,"52.9451889, -0.1601246",,eufunds.ftdata.co.uk,,,N,,
+lincolnshire county council,3899910,"53.1085595,-0.4251009","County Offices, Newland, Lincoln, LN1 1YG, UK",eufunds.ftdata.co.uk,Lincolnshire County Council received £3.8m in EU funding.,,Y,en:Lincolnshire County Council,Q16996347
+linton ag industr...,35000,"39.0347666, -87.1658458",,eufunds.ftdata.co.uk,,,N,,
+lisburn city coun...,261787,"29.7341627, -95.7968879",,eufunds.ftdata.co.uk,,,N,,
+Liverpool City Council,596475,"53.4085529,-2.9949144","Dale St, Liverpool, Merseyside L2 2DH, UK",eufunds.ftdata.co.uk,"Liverpool City Council received £596,475 for Liverpool Cycle Strategy.",,Y,en:Lisburn City Council,Q210647
+london borough of barking and dagenham,205877,"51.5464828, 0.1293497",,eufunds.ftdata.co.uk,,,N,en:London Borough of Barking and Dagenham,Q205358
+london borough of bexley,3000000,"51.4519021, 0.1171786",,eufunds.ftdata.co.uk,,,N,en:London Borough of Bexley,Q207208
+london borough of camden,539326,"51.5517059, -0.1588255",,eufunds.ftdata.co.uk,,,N,en:London Borough of Camden,Q202088
+london borough of croydon,300000,"51.3679705, -0.070062",,eufunds.ftdata.co.uk,,,N,en:London Borough of Croydon,Q26888
+london borough of havering,1410000,"51.577924, 0.2120829",,eufunds.ftdata.co.uk,,,N,en:London Borough of Havering,Q215038
+london borough of hillingdon,295000,"51.5351832, -0.4481378",,eufunds.ftdata.co.uk,,,N,en:London Borough of Hillingdon,Q205690
+london borough of sutton,150000,"51.3573721, -0.175281",,eufunds.ftdata.co.uk,,,N,en:London Borough of Sutton,Q320378
+London Borough of Tower Hamlets,500000,"51.5099234,-0.0083725","Town Hall, Mulberry Place, 5 Clove Cres, Poplar, London E14 2BG, UK",eufunds.ftdata.co.uk,Tower Hamlets received £500k to reconfigure the Whitechapel Centre ,,Y,en:London Borough of Tower Hamlets,Q208152
+London Metropolitan University,2297514,"51.5523201,-0.1126349","166-220 Holloway Rd, London N7 8DB, UK",eufunds.ftdata.co.uk,London Metropolitan University received £2.2m in EU funding.,,Y,en:London Metropolitan University,Q1869028
+luton training & mentoring,78989,"51.8786707, -0.4200255",,eufunds.ftdata.co.uk,,,N,,
+m & k quarry plan...,33500,"32.9690882, -81.4616879",,eufunds.ftdata.co.uk,,,N,,
+m d f engineering...,137394,"59.9373978, 30.3356195",,eufunds.ftdata.co.uk,,,N,,
+m e t steel ltd,16805,"51.5851831, -2.9971406",,eufunds.ftdata.co.uk,,,N,,
+m s o cleland ltd...,211300,"55.8110027, -3.9493023",,eufunds.ftdata.co.uk,,,N,,
+manchester enterprises,240822,"42.4721794, -91.4691947",,eufunds.ftdata.co.uk,,,N,,
+mansfield district council,122619,"53.1511138,-1.2070941","Civic Centre, Chesterfield Rd S, Mansfield, Nottinghamshire NG19 7BH, UK",eufunds.ftdata.co.uk,"Mansfield District Council received £122,619 in EU funding.",,Y,en:Mansfield District,Q1891143
+marine south east,242796,"36.6778707, -121.7624643",,eufunds.ftdata.co.uk,,,N,,
+marlborough engin...,59146,"-26.0716109, 28.064417",,eufunds.ftdata.co.uk,,,N,,
+mazorca,665279,"19.8455073, -90.4937694",,eufunds.ftdata.co.uk,,,N,,
+mccauley trailers...,24235,"53.5212222, -113.5216906",,eufunds.ftdata.co.uk,,,N,,
+messrs shane & ca...,30568,"36.778261, -119.4179324",,eufunds.ftdata.co.uk,,,N,,
+michael hughes & ...,32160,"38.6252685, -89.2721171",,eufunds.ftdata.co.uk,,,N,,
+miller hospitalit...,7265,"10.296592, 123.887604",,eufunds.ftdata.co.uk,,,N,,
+mo team,7700,"38.8039853, -90.6757097",,eufunds.ftdata.co.uk,,,N,,
+moyle engineering...,35000,"53.1679878, -6.5357983",,eufunds.ftdata.co.uk,,,N,,
+moypark dungannon...,23000,"54.4007618, -6.6661523",,eufunds.ftdata.co.uk,,,N,,
+munster simms eng...,74384,"51.9606649, 7.6261347",,eufunds.ftdata.co.uk,,,N,,
+Museum of Science and Industry,2000000,"53.4773135,-2.2571511","Liverpool Road, Manchester, M3 4FP",eufunds.ftdata.co.uk,The ERDF provided £2m for a revamp of the Museum of Science and Industry’s main building.,,Y,en:Museum of Science and Industry,Q6941015
+nacro,160000,"51.5553169, -0.0790096",,eufunds.ftdata.co.uk,,,N,,
+Stackpole Estate,1600000,"51.622709,-4.9296627","Old Home Farm Yard, Pembroke SA71 5DQ, UK",eufunds.ftdata.co.uk,The National Trust received £1.6m from the EU to invest in the Stakpole Estate as a tourism destination.,,Y,en:National Trust for Places of Historic Interest or Natural Beauty,Q333515
+nc engineering (h...,15000,"36.072714, -79.7761709",,eufunds.ftdata.co.uk,,,N,,
+Neath Port Talbot County Borough Council,33400000,"51.6418963,-3.8592384","Prettyman Dr, Skewen, Neath, Neath Port Talbot SA10 6HZ, UK",eufunds.ftdata.co.uk,Neath Port Talbot County Borough Council received £33.4m from the EU to motivate young people and tackle unemployment across South West Wales.,,Y,en:Neath Port Talbot County Borough Council,Q6984500
+new college stamford,119994,"3.1015843, 101.6412887",,eufunds.ftdata.co.uk,,,N,en:New College Stamford,Q7006621
+Newham College of Further Education,2151249,"51.5318788,0.0520386","East Ham Campus, London E6 6ER, United Kingdom",eufunds.ftdata.co.uk,Newham College received £2.1m in EU funding.,,Y,en:Newham College of Further Education,Q7018113
+newton systems ltd,19020,"51.6503452, -2.5104806",,eufunds.ftdata.co.uk,,,N,,
+newtownabbey boro...,182435,"54.685279, -5.9645025",,eufunds.ftdata.co.uk,,,N,,
+nhs - east of england,800000,"51.2655628, 1.0871344",,eufunds.ftdata.co.uk,,,N,en:NHS East of England,-1
+ni electricity,15000,"43.3414774, 21.8636104",,eufunds.ftdata.co.uk,,,N,en:Northern Ireland Electricity,Q7058492
+nipak,37804,"36.278316, -95.3020399",,eufunds.ftdata.co.uk,,,N,,
+north down boroug...,129492,"51.3356218, -0.0849261",,eufunds.ftdata.co.uk,,,N,en:North Down Borough Council,Q1156987
+north hertfordshire college,639996,"51.8973122,-0.2013217","Stevenage Centre, Monkswood Way, Stevenage, Hertfordshire SG1 1LA, UK",eufunds.ftdata.co.uk,,,N,en:North Hertfordshire College,Q7055590
+north herts college,1999975,"51.8963522, -0.2010862",,eufunds.ftdata.co.uk,,,N,en:North Hertfordshire College,Q7055590
+north london business,840000,"51.6242563, -0.147266",,eufunds.ftdata.co.uk,,,N,,
+north london chamber of commerce,145850,"51.5577511, 0.2501451",,eufunds.ftdata.co.uk,,,N,,
+north west network,108746,"53.3269449, -2.2403208",,eufunds.ftdata.co.uk,,,N,,
+north west universities association,154858,"33.422159, -111.856442",,eufunds.ftdata.co.uk,,,N,en:North West Universities Association,Q5463503
+north west vision and media,2755538,"38.8608647, 115.5085444",,eufunds.ftdata.co.uk,,,N,,
+northern hydrauli...,35000,"39.3940226, -80.3378761",,eufunds.ftdata.co.uk,,,N,,
+northern ireland ...,6075376,"54.7877149, -6.4923145",,eufunds.ftdata.co.uk,,,N,,
+northern ireland...,58048,"54.7877149, -6.4923145",,eufunds.ftdata.co.uk,,,N,,
+northside graphic...,29568,"43.08516, -76.107628",,eufunds.ftdata.co.uk,,,N,,
+Nottingham City Council,1829610,"52.9519897,-1.1549194","Smithy Row, Nottingham, NG1 2BS, UK",eufunds.ftdata.co.uk,Nottingham City Council received £1.8m in EU funding.,,Y,,
+Nottingham Trent University,1676110,"52.9568361,-1.1548416","Burton St, Nottingham NG1 4BU, United Kingdom",eufunds.ftdata.co.uk,Nottingham Trent University received £1.6m in EU funding.,,Y,en:Nottingham City Council,Q7063612
+Nottinghamshire County Council,1300637,"52.9568348,-1.1701625","County Hall, Loughborough Rd, West Bridgford, Nottingham NG2 7QP, UK",eufunds.ftdata.co.uk,Nottinghamshire County Council received £1.3m in EU funding.,,Y,en:Nottinghamshire County Council,Q16934215
+o & s doors ltd,47965,"53.5437674, -8.8814145",,eufunds.ftdata.co.uk,,,N,,
+on music ltd,50000,"53.025476, -2.1767425",,eufunds.ftdata.co.uk,,,N,,
+oxford innovation ltd,3285630,"51.7520209, -1.2577263",,eufunds.ftdata.co.uk,,,N,,
+p w s ireland ltd...,35708,"54.1735715, -6.3394939",,eufunds.ftdata.co.uk,,,N,,
+p.m. fireplaces,47052,"41.0100324, -72.1623161",,eufunds.ftdata.co.uk,,,N,,
+Parc Busnes Treorci,1800000,"51.6666429,-3.5265022",TREORCHY BUSINESS PARK. YNYSWEN. TREORCHY. CF42 6EP,eufunds.ftdata.co.uk,"Treorchy Business Park received £1.8m from the EU to refurbish a redundant Burberry building, providing facilities and offices for new business start-ups.",,Y,,
+park royal partnership,1014690,"51.5195956, -0.2537571",,eufunds.ftdata.co.uk,,,N,,
+"paul, james & reu...",8659,"47.6413815, 6.8538567",,eufunds.ftdata.co.uk,,,N,,
+Pembrokeshire County Council,2500000,"51.8015203,-4.9680789","County Hall, Haverfordwest SA61 1TP, United Kingdom",eufunds.ftdata.co.uk,Pembrokeshire County Council received £2.5m in EU funding.,,Y,en:Pembrokeshire County Council,Q7161994
+People's History Museum,378150,"53.4814492,-2.2550338","Left Bank, Spinningfields, Manchester, Lancashire M3 3ER, United Kingdom",eufunds.ftdata.co.uk,"The People's History Museum in Spinningfields, Manchester was financed with a £756,300 European Regional Development Fund (ERDF) grant. A further £378,150 funded the One Site Project, for expansion and consolidation.",,Y,en:People's History Museum,Q3374980
+picture house edi...,30116,"55.9482253, -3.2061893",,eufunds.ftdata.co.uk,,,N,,
+potter cowan & co...,43532,"44.588037, -75.1037709",,eufunds.ftdata.co.uk,,,N,,
+precision industr...,47060,"24.519879, 118.1318805",,eufunds.ftdata.co.uk,,,N,,
+precision process...,8745,"31.2345573, 120.5107271",,eufunds.ftdata.co.uk,,,N,,
+princes trust,495039,"51.5358831, 0.712291",,eufunds.ftdata.co.uk,,,N,en:The Prince's Trust,Q7758242
+project 1/11 10g/...,249955,"30.6867894, -92.288364",,eufunds.ftdata.co.uk,,,N,,
+purifry ltd,8775,"54.460772,-6.118939","40a Ballygowan Road, Hillsborough, County Down BT26 6EJ, UK",eufunds.ftdata.co.uk,"Purifry received £8,775 from the EU.",,N,,
+r w pierce & co (...,15312,"44.3698276, -90.784354",,eufunds.ftdata.co.uk,,,N,,
+r w pierce group ...,40280,"39.6857255, -105.0720522",,eufunds.ftdata.co.uk,,,N,,
+radius plastics l...,174066,"54.3498048, -6.2924909",,eufunds.ftdata.co.uk,,,N,,
+rapid internation...,47559,"42.8640355, -85.5314236",,eufunds.ftdata.co.uk,,,N,,
+Reading Borough Council,919172,"51.4567951,-0.978488","Civic Offices, Bridge St, Reading, Berkshire RG1 2LU, UK",eufunds.ftdata.co.uk,"Reading Borough Council received £919,172 in EU funding.",,Y,en:Reading Borough Council,Q17018654
+red bay boats ltd...,15772,"34.4398202, -88.1408747",,eufunds.ftdata.co.uk,,,N,,
+reed in partnership,975000,"54.8233273, -2.3085237",,eufunds.ftdata.co.uk,,,N,,
+Rhondda Cynon Taff County Borough Council,10300000,"51.6334888,-3.4987903","The Pavilions, Cambrian Park, Clydach Vale, Tonypandy, Rhondda Cynon Taff CF40 2XX, UK",eufunds.ftdata.co.uk,"Rhondda Cynon Taff County Borough Council received £10.3m in EU funding, for the purpose of offering financial assistance to local SMEs.",,Y,en:Rhondda Cynon Taf,Q817960
+rmb robinson & mo...,30667,"37.9642529, -91.8318334",,eufunds.ftdata.co.uk,,,N,,Loading...
+robert and anna s...,12802,"37.465778, -89.2403374",,eufunds.ftdata.co.uk,,,N,,Loading...
+roe park holdings...,22989,"51.7704593, -0.2105333",,eufunds.ftdata.co.uk,,,N,,Loading...
+rubber & plastic ...,45317,"51.8633614, 0.3737437",,eufunds.ftdata.co.uk,,,N,,Loading...
+s & b productions...,266994,"51.4933305, -0.1716131",,eufunds.ftdata.co.uk,,,N,,
+safety solutions ...,48891,"52.9603932, -1.194724",,eufunds.ftdata.co.uk,,,N,,
+MediaCityUK,4230874,"53.4741624,-2.2976622","The Greenhouse, 101-110 Broadway, Salford M50 2EQ, United Kingdom",eufunds.ftdata.co.uk,"Salford City Council received £4.23m from the EU for MediaCityUK, a 200-acre mixed-use property development on the banks of the Manchester Ship Canal in Salford and Trafford.",,Y,en:Salford City Council,Q17020402
+scottish enterprise,213750,"55.8572112, -4.2646261",,eufunds.ftdata.co.uk,,,N,en:Scottish Enterprise,Q7437711
+screen east,3618197,"28.6653516, 77.430186",,eufunds.ftdata.co.uk,,,N,,
+sean jordan t/a j...,20840,"40.6432874, -75.5016487",,eufunds.ftdata.co.uk,,,N,,
+seetec,272846,"51.601566, 0.648124",,eufunds.ftdata.co.uk,,,N,,
+sensor technology...,81424,"39.7683234, 116.5314013",,eufunds.ftdata.co.uk,,,N,,
+seven technologie...,27216,"51.8813449, -8.4456486",,eufunds.ftdata.co.uk,,,N,,
+sewta,2800000,"25.8106353, 83.6015808",,eufunds.ftdata.co.uk,,,N,,
+shane nugent & ca...,10122,"36.778261, -119.4179324",,eufunds.ftdata.co.uk,,,N,,
+sharman d neil,11353,"42.966962, -75.47597",,eufunds.ftdata.co.uk,,,N,,
+sharman d neill l...,27432,"42.966962, -75.47597",,eufunds.ftdata.co.uk,,,N,,
+shaw trust,254953,"51.5697536, -0.7744146",,eufunds.ftdata.co.uk,,,N,en:Shaw Trust,Q7491206
+sherwood systems ...,35729,"33.4079167, -82.00845",,eufunds.ftdata.co.uk,,,N,,
+Shoreditch Trust,2401449,"51.5363757,-0.0789998","Units 1–2 Waterhouse, 8 Orsman Rd, London N1 5QJ, United Kingdom",eufunds.ftdata.co.uk,"Shoreditch Trust received £2.4m from the EU for the Digital Green Technology Workspace Centre, regenerating a derelict site to provide workspace for SMEs.",,Y,,
+silverwood enterp...,36708,"52.6835923, -8.6721845",,eufunds.ftdata.co.uk,,,N,,
+smiley monroe,12900,"40.9547983, -75.3236326",,eufunds.ftdata.co.uk,,,N,,
+south east enterprise limited,256000,"23.6309508, 90.4930075",,eufunds.ftdata.co.uk,,,N,,
+south lanarkshire council,270253,"55.7827719, -4.0583272",,eufunds.ftdata.co.uk,,,N,en:South Lanarkshire,Q209142
+south london business ltd,250000,"51.4762087, -0.052654",,eufunds.ftdata.co.uk,,,N,,
+south west investment group ltd,3750000,"39.8725446, 116.4964206",,eufunds.ftdata.co.uk,,,N,,
+Southend YMCA Eco Hub,307224,"51.5392367,0.6979407","2a St John's Rd, Southend-on-Sea, Westcliff-on-Sea, Southend-on-Sea SS0 7JZ, UK",eufunds.ftdata.co.uk,"Southend YMCA received £307,224 from the EU for its Eco Hub, providing environmentally friendly start-up office space.",,Y,,
+specialist joiner...,86322,"51.2515564, 1.2355843",,eufunds.ftdata.co.uk,,,N,,
+sports merchandis...,8284,"31.8294974, 117.1664325",,eufunds.ftdata.co.uk,,,N,,
+Suffolk County Council,1237648,"52.265444,0.8467388","Endeavour House, Russell Rd, Ipswich, Suffolk IP1 2BX, UK",eufunds.ftdata.co.uk,Suffolk County Council received £1.2m in EU funding.,,Y,en:Suffolk County Council,Q3305205
+sustainable energ...,286057,"55.9485012, -3.1851766",,eufunds.ftdata.co.uk,,,N,,
+sustrans,3500000,"53.7085565, -1.6935922",,eufunds.ftdata.co.uk,,,N,en:Sustrans,Q606877
+Swansea University,52200000,"51.6086962,-3.9820897","Singleton Park, Sketty, Swansea, Wales SA2 8PP, UK",eufunds.ftdata.co.uk,"Swansea University received £52.2m from the EU, funding the Centre for Nanohealth and the Institute of Life Sciences.",,Y,en:Swansea University,Q1420500
+Swansea Quadrant Bus Station,4900000,"51.617692,-3.9484537","Plymouth St, Swansea SA1 3QX, UK",eufunds.ftdata.co.uk,"Swansea City Council received £4.9m from the EU, funding the Swansea Quadrant Bus Station.",,Y,en:Swansea City Council,-1
+Tate Liverpool,880000,"53.400607,-2.9965447","Albert Dock, Liverpool Waterfront, Liverpool, Merseyside L3 4BB, UK",eufunds.ftdata.co.uk,"Tate Liverpool received £880,000 from the EU, for its Major Exhibitions Programme.",,Y,en:Tate Liverpool,Q517612
+taylor & boyd,21039,"41.2983615, -96.0525479",,eufunds.ftdata.co.uk,,,N,,
+teemore engineeri...,9206,"54.15348, -7.52604",,eufunds.ftdata.co.uk,,,N,,
+tesab engineering...,48864,"54.6052026, -7.3281395",,eufunds.ftdata.co.uk,,,N,,
+the adam smith college,730020,"56.185593, -3.1783",,eufunds.ftdata.co.uk,,,N,en:Adam Smith College,Q4679810
+the corporate war...,10372,"30.4283851, -97.7155502",,eufunds.ftdata.co.uk,,,N,,
+the elevate group...,12720,"32.0434724, 120.886384",,eufunds.ftdata.co.uk,,,N,,
+the learning partnership – bedfordshire & luton,750000,"51.8786707, -0.4200255",,eufunds.ftdata.co.uk,,,N,,
+the learning partnership for cornwall and the isles of scilly,24553898,"49.9232519, -6.2965725",,eufunds.ftdata.co.uk,,,N,,
+the mcavoy group ...,40000,"54.512294, -6.0954379",,eufunds.ftdata.co.uk,,,N,,
+the mersey partnership,9768835,"53.3364288, -2.9795361",,eufunds.ftdata.co.uk,,,N,,
+"the princes \
+trust",1200000,"51.5358831, 0.712291",,eufunds.ftdata.co.uk,,,N,en:The Prince's Trust,Q7758242
+the queens univer...,1353987,"40.7282239, -73.7948516",,eufunds.ftdata.co.uk,,,N,en:Queen's University Belfast,Q877925
+the saville row h...,50000,"37.0403951, -76.3829503",,eufunds.ftdata.co.uk,,,N,,
+The University of Manchester,2350340,"53.4668498,-2.2360724","Oxford Rd, Manchester, M13 9PL, UK",eufunds.ftdata.co.uk,The University of Manchester received £2.35m in EU funding for the Centre of Excellence for Biopharmaceuticals.,,Y,en:University of Manchester,Q230899
+theatre resource,697123,"23.3058893, 81.3556677",,eufunds.ftdata.co.uk,,,N,,
+three software li...,19244,"38.0177368, 114.4391942",,eufunds.ftdata.co.uk,,,N,,
+Thurrock Council,2733694,"51.4844478,0.2898903","Civic Offices, New Rd, Grays, Essex RM17 6SL, UK",eufunds.ftdata.co.uk,Thurrock Council received £2.7m in EU funding.,,Y,en:Thurrock Council,Q1646552
+Torfaen County Borough Council,8800000,"51.6435702,-3.0088126","Llanfrechfa Way, Cwmbran, Torfaen NP44 8HT, UK",eufunds.ftdata.co.uk,Torfaen County Borough Council received £8.8m in EU funding towards Working Skills for Adults.,,Y,en:Torfaen County Borough Council,Q7825688
+Tower Hamlets College,900000,"51.508871,-0.0198481","Poplar High St, London E14 0AF, United Kingdom",eufunds.ftdata.co.uk,"Tower Hamlets College received £900,000 in EU funding.",,Y,en:Tower Hamlets College,Q7829663
+Trades Union Congress,570000,"51.5172747,-0.1306611","Congress House, 23-28 Great Russell St, Fitzrovia, London WC1B 3LS, UK",eufunds.ftdata.co.uk,"The TUC received £560,000 from the EU towards its CRUNCH project - Countering Recession through Union Networking, Co-operation and Help.",,Y,en:Trades Union Congress,Q521207
+travel 118 ltd,59647,"30.6185817, 114.3838404",,eufunds.ftdata.co.uk,,,N,,
+u.m.e. (ni) ltd,9761,"54.6371381, -5.8288862",,eufunds.ftdata.co.uk,,,N,,
+UCL,482595,"51.5245592,-0.1362288","Gower St, London WC1E 6BT, United Kingdom",eufunds.ftdata.co.uk,"UCL received £482,595 in EU funding.",,Y,en:University College London,Q193196
+Ebbw Vale Innovation Centre,1600000,"51.7598083,-3.202241","Festival Dr, Ebbw Vale, Blaenau Gwent NP23 8XA, UK",eufunds.ftdata.co.uk,UK Steel Enterprise received £1.6m in EU funding for the second phase of the Ebbw Vale Innovation Centre. ,,Y,,
+universities pres...,54540,"40.1006838, -88.2430374",,eufunds.ftdata.co.uk,,,N,,
+University College Falmouth,12611883,"50.1712678,-5.126026","Penryn Campus, Treliever Road, Penryn, Cornwall TR10 9FE, United Kingdom",eufunds.ftdata.co.uk,"Falmouth University received £12.6m in EU funding, supporting the construction of a new Performance Centre.",,Y,en:Falmouth University,Q5432602
+University for the Creative Arts,124905,"51.215479,-0.8078277","Falkner Rd, Farnham GU9 7DS, United Kingdom",eufunds.ftdata.co.uk,"University for the Creative Arts received £124,905 in EU funding.",,Y,en:University for the Creative Arts,Q2598272
+University of Glamorgan,28900000,"51.5890596,-3.3291182","Llantwit Road, Treforest, Pontypridd, Mid Glamorgan CF37 1DL, United Kingdom",eufunds.ftdata.co.uk,The University of Glamorgan received £28.9m in EU funding.,,Y,en:University of Glamorgan,Q1143242
+University of Wales,5100000,"51.4854318,-3.1835729","King Edward VII Ave, Cardiff, South Glam CF10 3NS, United Kingdom",eufunds.ftdata.co.uk,The University of Wales received £5.1m in EU Funding.,,Y,en:University of Wales,Q1072029
+University of Wales Newport,5000000,"51.6012749,-2.993763","
+Usk Way, Newport NP20 2BP, UK",eufunds.ftdata.co.uk,"University of Wales, Newport, received £5m in EU funding.",,Y,"en:University of Wales, Newport",Q935290
+University of Cambridge,192600,"52.2042699,0.1127198","The Old Schools, Trinity Ln, Cambridge CB2 1TN, United Kingdom",eufunds.ftdata.co.uk,"The University of Cambridge received £192,600 in EU funding.",,Y,en:University of Cambridge,Q35794
+University of Derby,243393,"52.9379538,-1.4986501","Kedleston Rd, Derby DE22 1GB, United Kingdom",eufunds.ftdata.co.uk,"The University of Derby received £243,393 in EU funding.",,Y,en:University of Derby,Q3183295
+University of East Anglia,1153500,"52.6219215,1.2369874","Norwich Research Park, Norwich, Norfolk NR4 7TJ, United Kingdom",eufunds.ftdata.co.uk,The University of East Anglia received £1.1m in EU funding.,,Y,en:University of East Anglia,Q1045828
+University of East London,1246795,"51.5078296,0.0617362","University Way, London E16 2RD, United Kingdom",eufunds.ftdata.co.uk,The University of East London received £1.2m in EU funding.,,Y,en:University of East London,Q1345942
+University of Exeter,7739112,"50.7371369,-3.5373362","Exeter, Devon EX4, United Kingdom",eufunds.ftdata.co.uk,The University of Exeter received £7.7m in EU funding.,,Y,en:University of Exeter,Q1414861
+University of Gloucestershire,501000,"51.8875084,-2.090097","The Park, Park Campus, Cheltenham GL50 2RH, United Kingdom",eufunds.ftdata.co.uk,"The University of Gloucestershire received £501,000 in EU funding.",,Y,en:University of Gloucestershire,Q1816872
+University of Hertfordshire,311753,"51.7617561,-0.2489884","De Havilland Campus, Hatfield AL10 9EU, United Kingdom",eufunds.ftdata.co.uk,"The University of Hertfordshire received £311,753 in EU funding.",,Y,en:University of Hertfordshire,Q1745633
+University of Leicester,1449985,"52.6211393,-1.1268212","University Rd, Leicester LE1 7RH, United Kingdom",eufunds.ftdata.co.uk,The University of Leicester received £1.4m in Eu funding.,,Y,en:University of Leicester,Q1333399
+University of Lincoln,2092561,"53.2287474,-0.5526058","Brayford Pool, Lincoln LN6 7TS, United Kingdom",eufunds.ftdata.co.uk,The University of Lincoln received £2m in EU funding.,,Y,en:University of Lincoln,Q2738646
+University of Liverpool,3383743,"53.405936,-2.9677609","Liverpool, Merseyside L69 3BX, UK",eufunds.ftdata.co.uk,The University of Liverpool received £3.3m in EU funding.,,Y,en:University of Liverpool,Q499510
+University of Loughborough,3115000,"52.769227,-1.2268207","Epinal Way, Loughborough, Leicestershire LE11 3TU, United Kingdom",eufunds.ftdata.co.uk,The University of Loughborough received £3.1m in EU funding.,,Y,en:Loughborough University,Q1434547
+University of Northampton,3170700,"52.2722003,-0.8853799","Park Campus, Boughton Green Rd, Northampton NN2 7AL, United Kingdom",eufunds.ftdata.co.uk,The University of Northampton received £3.1m in EU funding.,,Y,en:University of Northampton,Q3123462
+University of Nottingham,5926817,"52.938636,-1.1973469","Nottingham NG7 2RD, United Kingdom",eufunds.ftdata.co.uk,The University of Nottingham received £5.9m in EU funding.,,Y,en:University of Nottingham,Q472316
+university of plymouth,8989328,"50.3745284,-4.1428352","Drake Circus, Plymouth PL4 8AA, United Kingdom",eufunds.ftdata.co.uk,The University of Plymouth received £8.9m in EU funding.,,Y,en:Plymouth University,Q1711558
+University of Salford,3000000,"53.484586,-2.2729437","43 Crescent, Salford, M5 4WT, UK",eufunds.ftdata.co.uk,The University of Salford received £3m in EU funding.,,Y,en:University of Salford,Q2738622
+urban futures,246000,"37.0529557, -89.1876741",,eufunds.ftdata.co.uk,,,N,,
+valpar industrial...,145758,"-33.0400019, -71.4186103",,eufunds.ftdata.co.uk,,,N,,
+victor bowman t/a...,43910,"38.2559077, -85.6932019",,eufunds.ftdata.co.uk,,,N,,
+voluntary action luton,100000,"51.8786707, -0.4200255",,eufunds.ftdata.co.uk,,,N,,
+wandsworth borough council,1142519,"51.4573112,-0.193178","Town Hall, Wandsworth High St, London SW18 2PU, United Kingdom",eufunds.ftdata.co.uk,Wandsworth Borough Council received £1.1m in EU funding.,,Y,en:Wandsworth London Borough Council,Q7967311
+warner chilcott u...,1841083,"-32.9827973, 151.662132",,eufunds.ftdata.co.uk,,,N,,
+web design soluti...,35000,"6.8652635, 79.8867866",,eufunds.ftdata.co.uk,,,N,,
+wellington comput...,27818,"42.406845, -71.1186757",,eufunds.ftdata.co.uk,,,N,,
+west lakes renaissance,4938000,"34.1612201, -77.8785646",,eufunds.ftdata.co.uk,,,N,,
+west london business,600000,"39.8169981, -83.0092803",,eufunds.ftdata.co.uk,,,N,,
+West Northamptonshire Development,4306008,"52.2401459,-0.9215534","Franklin's Gardens, Northampton NN5 5WU, United Kingdom",eufunds.ftdata.co.uk,West Northamptonshire Development received £4.3m to build the iHub startup centre in Daventry.,,Y,,
+west nottinghamshire college,157507,"53.121671,-1.1938267","Derby Rd, Mansfield NG18 5BH, United Kingdom",eufunds.ftdata.co.uk,"West Nottinghamshire College received £157,507 in EU funding.",,Y,en:Vision West Nottinghamshire College,Q7936182
+western brand pou...,671297,"41.627499, -73.884163",,eufunds.ftdata.co.uk,,,N,,
+western building ...,30000,"22.2782468, 114.1180788",,eufunds.ftdata.co.uk,,,N,,
+westminster city council,3919190,"51.4975395,-0.1396116","Westminster City Hall, 64 Victoria St, Westminster, London SW1E 6QP, UK",eufunds.ftdata.co.uk,Westminster City Council received £3.9m in EU funding.,,Y,en:Westminster City Council,Q7989145
+william clark & s...,85031,"41.4963434, -74.0153412",,eufunds.ftdata.co.uk,,,N,,
+williams industri...,218446,"22.5428838, 88.3512508",,eufunds.ftdata.co.uk,,,N,,
+wilson's country ...,57023,"28.5150601, -99.7937276",,eufunds.ftdata.co.uk,,,N,,
+world furniture (...,23571,"50.916688, -1.4257595",,eufunds.ftdata.co.uk,,,N,,
+Wrexham County Borough Council,500000,"53.0462233,-2.9742682","The Guildhall, Wrexham, Clwyd LL11 1AY, UK",eufunds.ftdata.co.uk,"Wrexham County Borough Council received £500,000 in EU funding.",,Y,en:Wrexham County Borough Council,Q8038115
+Manchester Victoria Tram Stop,10800000,"53.48733, -2.24205",,http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,Rebuilding of the Manchester Victoria tram stop is part of work across the whole Metrolink system which received £10.8m from the European Regional Development Fund (ERDF) in 2014.,,Y,,
+Deansgate-Castlefield Tram Stop,10800000,"53.47482, -2.24995",,http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,"The European Regional Development Fund (ERDF) contributed £10.8m towards improvements across the whole Manchester Metrolink system, including rennovating Deansgate-Castlefield stop.",,Y,,
+The Sharp Project,7000000,"53.501659,-2.1973727","Thorp Road, Manchester, M40 5BJ, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,,,Y,,
+Museum Of Science And Industry,2000000,"53.4773135,-2.2571511","Liverpool Road, Manchester, M3 4FP",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,The ERDF provided £2m for a revamp of the Museum of Science and Industry’s main building.,,Y,,
+N.O.M.A.,6900000,"53.4880435,-2.2371437","1 Angel Square, Manchester M60 0AG, United Kingdom",http://www.manchestereveningnews.co.uk/news/greater-manchester-news/things-eu-done-for-manchester-11020085,This 20-acre mixed-use redevelopment scheme between Victoria Station and Angel Meadows has also been helped along the way by £6.9m of EU money.,,Y,,
+Jodrell Bank,1000000,"53.236896,-2.3096899","The University of Manchester, Macclesfield, Cheshire SK11 9DL, UK",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,"In 2009 the Manchester University successfully netted a £1m ERDF grant to open its new discovery centre, covering around a third of the overall cost.",,Y,,
+National Graphene Institute,23002348,"53.468792,-2.233476","The University of Manchester National Graphene Institute, Booth Street East, The University of Manchester, Manchester, M13 9PL, United Kingdom",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,£23m of its £61m cost was paid for by the ERDF.,,Y,,
+Homes of Football @ National Football Museum,3787017,"53.4858222,-2.2443062","Urbis Building, Cathedral Gardens, Todd St, City Centre, Manchester, M4 3BG, UK",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,,,Y,,
+Imperial War Museum North,8900000,"53.4697358,-2.2987405","Trafford Wharf Rd, Stretford, Manchester M17 1TZ, United Kingdom",http://www.museumsassociation.org/news/23022016-uk-museums-could-lose-if-uk-leaves-eu-says-ma,"The Imperial War Museum North in Salford Quays, Manchester, received an £8.9m European Regional Development Fund grant, and opened in 2002.",,Y,,
+Chester Innovation Economy Centre,2782300,"53.1860195,-2.8925262","Riverside Innovation Centre, Castle Drive, Chester, CH1 ISL",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,,,Y,,
+High Growth Centre,2842606,"53.274278,-2.8289837","Thornton Science Park, University of Chester, Pool Ln, Ince, Chester, Cheshire CH2 4NU, United Kingdom",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,,,Y,,
+North West Food Research & Development Institute (NowFood),2378781,"53.1989955,-2.9667875","Faculty of Life Sciences, University of Chester, Chester, CH14BJ",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/427583/ERDF_North_West_list_of_beneficiaries_April_2015.pdf,,,Y,,
+International Convention Centre,50000000,"52.4789,-1.9124797","Broad St, Birmingham, West Midlands B1 2EA, UK",http://www.birminghammail.co.uk/news/midlands-news/what-eu-ever-done-birmingham-11028563,The EU chipped in £50 million towards the ICC and Symphony Hall which opened for business in 1991.,,Y,,
+National Exhibition Centre,30000000,"52.4511165,-1.7233308","North Ave, Marston Green, Birmingham, West Midlands B40 1NT, UK",http://www.birminghammail.co.uk/news/midlands-news/what-eu-ever-done-birmingham-11028563,The ERDF gave £30 million towards the refurbishment of the NEC,,Y,,
+Cornwall Innovation: The Health & Wellbeing Innovation Centre,9987637,"50.267234,-5.094094","Treliske, Truro TR1 3FF, United Kingdom",https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/403961/CIOS_Convergence_beneficiary_data_Jan_2015.pdf,The EU gave £9.9m towards the Health & Wellbeing Innovation Centre in Cornwall.,,Y,,
+"Ricoh Arena, Coventry",4750000,"52.448433, -1.496420","Coventry, CV6 6GE",http://www.coventry.gov.uk/downloads/file/10605/20114936,£4.7m of EU money helped Coventry Council buy the land the stadium was built on.,,Y,,
+"Far Gosford Street, Coventry",1100000,"52.407964, -1.495601","Far Gosford Street, Coventry, CV1 5DZ",http://www.coventrytelegraph.net/news/coventry-news/coventry-far-gosford-street-transformation-6191895,Restoring historic buildings in the city centre,,Y,,
+"International Transport Museum, Coventry",3100000,"52.411146, -1.508970","Coventry Transport Museum, Coventry, CV1 1JD",http://moderngov.coventry.gov.uk/ieIssueDetails.aspx?IId=16638&Opt=3,Money to be paid on evidence of expenditure,,Y,,
+Bargoed,3200000,"51.6849649,-3.2519174","Bargoed, Wales",http://eufunds.ftdata.co.uk/,The EU gave £3.2m to redevelop Bargoed,,Y,,
+iCon Sustainability Centre,4306008,"52.2616128,-1.7180229","Eastern Way, Daventry, Northamptonshire NN11 0QB, UK",http://eufunds.ftdata.co.uk/,"This 4,000m² building was funded with £4.3m of EU money.",,Y,,
+Newquay Airport,11167500,"50.446424,-5.0042477","St. Mawgan, Newquay TR8 4RQ, United Kingdom",http://eufunds.ftdata.co.uk/,Cornwall Council received £11.1m to develop Newquay Airport.,,Y,,
+Wales Coast Path,3900000,"53.1884075,-2.953575","Wales Coast Path, Chester CH1, UK",http://eufunds.ftdata.co.uk/,Coutryside Council for Wales received £3.9m from the EU to deliver the Wales Coast Path.,,Y,,
