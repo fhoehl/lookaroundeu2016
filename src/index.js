@@ -100,18 +100,22 @@ var init = function () {
   }
 
   var input = document.getElementById('pac-input');
-  var searchBox = new google.maps.places.SearchBox(input);
+  var searchBox = new google.maps.places.Autocomplete(input);
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
 
-  searchBox.addListener('places_changed', function() {
-    let places = searchBox.getPlaces()
+  searchBox.addListener('place_changed', function() {
+    let place = searchBox.getPlace()
 
-    if (places.length == 0) {
+    if (!place.geometry) {
       return
     }
 
-    map.setCenter(places[0].geometry.location)
-    map.fitBounds(places[0].geometry.viewport)
+    if (place.geometry.viewport) {
+      map.fitBounds(place.geometry.viewport)
+    } else {
+      map.setCenter(place.geometry.location);
+      map.setZoom(17);
+    }
   })
 }
 
